@@ -1,0 +1,9 @@
+D:\C#\批量量化工具\批量量化工具\bin\Debug\批量量化工具.exe.config
+D:\C#\批量量化工具\批量量化工具\bin\Debug\批量量化工具.exe
+D:\C#\批量量化工具\批量量化工具\obj\Debug\批量量化工具.Form1.resources
+D:\C#\批量量化工具\批量量化工具\obj\Debug\批量量化工具.Properties.Resources.resources
+D:\C#\批量量化工具\批量量化工具\obj\Debug\批量量化工具.csproj.GenerateResource.Cache
+D:\C#\批量量化工具\批量量化工具\obj\Debug\批量量化工具.exe
+D:\C#\批量量化工具\批量量化工具\obj\Debug\批量量化工具.pdb
+D:\C#\批量量化工具\批量量化工具\bin\Debug\批量量化工具.pdb
+D:\C#\批量量化工具\批量量化工具\obj\Debug\批量量化工具.csprojResolveAssemblyReference.cache
